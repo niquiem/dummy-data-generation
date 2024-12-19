@@ -1,0 +1,57 @@
+BookingID,CancellationDate,CancellationReason
+1,2024-05-21,Budget constraints
+7,2024-06-06,Found a better alternative
+19,2024-05-29,Host unresponsive or uncooperative
+22,2024-06-14,Travel restrictions
+25,2024-02-02,Health issues
+30,2024-05-20,Unexpected personal reasons
+39,2024-01-12,Health issues
+40,2024-05-29,Work-related obligations
+43,2024-02-04,Booking made by mistake
+48,2024-02-08,Budget constraints
+57,2024-01-08,Health issues
+63,2024-03-30,Host unresponsive or uncooperative
+65,2024-05-08,Accommodation reviews were concerning
+73,2024-04-07,Travel restrictions
+77,2024-01-12,Unexpected personal reasons
+82,2024-06-07,Unexpected personal reasons
+83,2024-03-22,Change of travel plans
+91,2024-03-15,Change of travel plans
+92,2024-05-08,Budget constraints
+93,2024-01-02,Unexpected personal reasons
+98,2024-05-03,Found a better alternative
+106,2024-03-31,Change of travel plans
+109,2024-01-22,Work-related obligations
+112,2024-04-09,Booking made by mistake
+113,2024-02-05,Health issues
+115,2024-03-27,Health issues
+124,2024-01-03,Health issues
+127,2024-01-07,Work-related obligations
+137,2024-01-06,Found a better alternative
+139,2024-04-29,Unexpected personal reasons
+140,2024-04-05,Found a better alternative
+154,2024-01-11,Change of travel plans
+159,2024-05-22,Budget constraints
+161,2024-05-21,Health issues
+170,2024-05-02,Found a better alternative
+177,2024-03-23,Travel restrictions
+178,2024-02-15,Unexpected personal reasons
+192,2024-06-01,Host unresponsive or uncooperative
+199,2024-03-13,Budget constraints
+205,2024-06-14,Health issues
+208,2024-03-11,Unexpected personal reasons
+210,2024-04-23,Host unresponsive or uncooperative
+226,2024-05-30,Unexpected personal reasons
+237,2024-02-18,Booking made by mistake
+247,2024-04-30,Host unresponsive or uncooperative
+248,2024-04-13,Work-related obligations
+249,2024-04-30,Work-related obligations
+250,2024-03-23,Found a better alternative
+251,2024-05-21,Travel restrictions
+260,2024-05-27,Unexpected personal reasons
+275,2024-04-18,Health issues
+286,2024-03-13,Found a better alternative
+288,2024-06-08,Host unresponsive or uncooperative
+292,2024-04-15,Change of travel plans
+310,2024-06-15,Health issues
+318,2024-02-11,Budget constraints

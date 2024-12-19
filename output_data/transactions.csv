@@ -1,0 +1,110 @@
+TransactionID,PaymentID,TransactionDate,TransactionType,Amount,PaymentMethod
+1,15,2024-12-07,Debit,314.79,PayPal
+2,45,2024-08-06,Credit,264.22,Bank Transfer
+3,263,2024-12-16,Credit,458.55,Cryptocurrency
+4,213,2024-06-05,Debit,772.32,Bank Transfer
+5,301,2024-10-02,Debit,1139.4,PayPal
+6,27,2024-08-25,Credit,311.49,Cryptocurrency
+7,222,2024-04-26,Credit,715.13,Credit Card
+8,9,2024-03-22,Debit,1699.84,PayPal
+9,37,2024-09-15,Credit,1045.34,Cryptocurrency
+10,225,2024-07-24,Debit,229.28,Credit Card
+11,176,2024-10-30,Credit,322.32,Cryptocurrency
+12,107,2024-05-03,Debit,307.73,PayPal
+13,213,2024-04-08,Credit,772.32,Credit Card
+14,58,2024-01-04,Debit,114.49,Debit Card
+15,90,2024-11-15,Debit,472.56,PayPal
+16,270,2024-05-19,Debit,520.84,PayPal
+17,315,2024-04-09,Debit,119.38,Credit Card
+18,301,2024-11-21,Credit,1139.4,Credit Card
+19,305,2024-08-23,Credit,388.05,Cryptocurrency
+20,74,2024-08-31,Credit,2382.75,Bank Transfer
+21,298,2024-04-25,Credit,483.48,Credit Card
+22,80,2024-08-17,Credit,2078.4,Bank Transfer
+23,9,2024-04-29,Credit,1699.84,Debit Card
+24,79,2024-11-27,Credit,735.06,Debit Card
+25,202,2024-02-17,Debit,432.23,Credit Card
+26,152,2024-02-20,Debit,368.6,Credit Card
+27,250,2024-09-10,Debit,404.53,Debit Card
+28,90,2024-08-23,Credit,472.56,Bank Transfer
+29,91,2024-04-29,Debit,2169.76,Debit Card
+30,234,2024-01-25,Credit,496.66,Bank Transfer
+31,37,2024-01-11,Credit,1045.34,Credit Card
+32,84,2024-01-02,Debit,293.31,Debit Card
+33,58,2024-10-24,Debit,114.49,Debit Card
+34,315,2024-12-04,Credit,119.38,PayPal
+35,304,2024-05-31,Debit,458.05,Bank Transfer
+36,74,2024-03-21,Credit,2382.75,Bank Transfer
+37,47,2024-05-18,Credit,435.06,Bank Transfer
+38,99,2024-04-13,Debit,1985.73,PayPal
+39,75,2024-09-02,Debit,2101.4,PayPal
+40,41,2024-08-11,Debit,1159.94,Cryptocurrency
+41,232,2024-12-14,Debit,1394.24,Credit Card
+42,26,2024-03-19,Debit,1110.82,Bank Transfer
+43,29,2024-10-18,Credit,987.76,Bank Transfer
+44,188,2024-02-28,Credit,388.38,PayPal
+45,38,2024-09-24,Debit,1382.86,PayPal
+46,75,2024-09-01,Credit,2101.4,Cryptocurrency
+47,293,2024-08-04,Debit,705.54,Bank Transfer
+48,254,2024-07-20,Credit,297.9,Cryptocurrency
+49,12,2024-08-24,Debit,1367.32,Bank Transfer
+50,110,2024-11-02,Debit,2050.98,Debit Card
+51,11,2024-01-27,Debit,1272.96,Debit Card
+52,162,2024-04-25,Debit,1649.52,Credit Card
+53,91,2024-05-14,Credit,2169.76,Credit Card
+54,177,2024-10-15,Credit,2448.18,Bank Transfer
+55,53,2024-08-17,Credit,396.63,Debit Card
+56,177,2024-09-14,Debit,2448.18,Credit Card
+57,147,2024-01-24,Credit,110.5,Cryptocurrency
+58,120,2024-04-08,Debit,1308.96,Credit Card
+59,188,2024-03-29,Credit,388.38,Bank Transfer
+60,9,2024-03-11,Debit,1699.84,Cryptocurrency
+61,84,2024-06-14,Credit,293.31,Bank Transfer
+62,304,2024-04-10,Credit,458.05,Credit Card
+63,222,2024-01-08,Debit,715.13,Credit Card
+64,193,2024-04-28,Debit,143.57,Credit Card
+65,49,2024-05-07,Credit,1546.3,Debit Card
+66,102,2024-07-28,Debit,209.83,Bank Transfer
+67,45,2024-05-27,Credit,264.22,Cryptocurrency
+68,249,2024-05-30,Debit,565.09,Credit Card
+69,296,2024-11-11,Debit,395.23,Credit Card
+70,296,2024-12-07,Debit,395.23,Debit Card
+71,97,2024-09-06,Debit,775.23,Bank Transfer
+72,252,2024-01-08,Credit,1223.32,Debit Card
+73,249,2024-03-15,Credit,565.09,Credit Card
+74,304,2024-01-15,Credit,458.05,Debit Card
+75,127,2024-11-14,Debit,1116.66,Credit Card
+76,12,2024-07-06,Debit,1367.32,Bank Transfer
+77,213,2024-11-12,Credit,772.32,PayPal
+78,37,2024-11-17,Debit,1045.34,PayPal
+79,82,2024-12-11,Credit,489.32,Cryptocurrency
+80,90,2024-05-30,Credit,472.56,Credit Card
+81,4,2024-02-19,Credit,2188.86,Cryptocurrency
+82,188,2024-05-27,Credit,388.38,PayPal
+83,127,2024-09-29,Credit,1116.66,Credit Card
+84,75,2024-08-02,Credit,2101.4,Debit Card
+85,289,2024-04-14,Credit,409.14,Credit Card
+86,42,2024-10-11,Debit,397.46,Debit Card
+87,37,2024-11-02,Debit,1045.34,Bank Transfer
+88,293,2024-05-13,Credit,705.54,Cryptocurrency
+89,301,2024-10-16,Debit,1139.4,PayPal
+90,141,2024-06-29,Debit,643.21,Bank Transfer
+91,38,2024-07-18,Credit,1382.86,Credit Card
+92,58,2024-07-30,Credit,114.49,PayPal
+93,279,2024-09-19,Credit,442.35,Credit Card
+94,298,2024-08-26,Credit,483.48,Debit Card
+95,152,2024-10-12,Credit,368.6,Bank Transfer
+96,9,2024-06-13,Debit,1699.84,PayPal
+97,296,2024-04-11,Debit,395.23,Cryptocurrency
+98,215,2024-06-05,Credit,271.24,PayPal
+99,132,2024-08-03,Credit,769.78,Debit Card
+100,33,2024-10-04,Credit,1148.98,Debit Card
+101,54,2024-01-27,Credit,391.52,Cryptocurrency
+102,54,2024-06-07,Credit,391.52,Debit Card
+103,213,2024-08-02,Credit,772.32,Debit Card
+104,4,2024-05-31,Credit,2188.86,Debit Card
+105,293,2024-02-17,Credit,705.54,Debit Card
+106,4,2024-01-02,Debit,2188.86,Bank Transfer
+107,48,2024-12-15,Credit,296.74,Credit Card
+108,26,2024-10-12,Debit,1110.82,PayPal
+109,74,2024-06-29,Debit,2382.75,Cryptocurrency
